@@ -1,8 +1,8 @@
-### Oi, eu sou o Erick Lima, sou estudante da Fatec Itu em ADS (Analise e desenvolvimento de sistemas)
+### 💡 Oi, eu sou o Erick Lima, sou estudante da Fatec Itu em ADS (Analise e desenvolvimento de sistemas) 🎒
 
 ##
 
-Estou tentando me tornar um Game Developer com o curso de Games da Danki Code.
+Estou tentando me tornar um Game Developer com o curso de Games da Danki Code. 👾
 <br><br>
 Atualmente tenho conhecimento em:
 <br><br>
