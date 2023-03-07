@@ -1,4 +1,4 @@
-<h3>Oi, eu sou o Erick Lima, sou estudante da Fatec Itu em ADS (Analise e desenvolvimento de sistemas) em busca de conhecimento e experiência</h3>
+<h3>Oi, eu sou o Erick Lima, sou estudante da Fatec Itu em ADS (Analise e desenvolvimento de sistemas)/h3>
 
 ##
 
