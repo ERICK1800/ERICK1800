@@ -1,4 +1,4 @@
-### 💡 Oi, eu sou o Erick Lima, sou estudante da Fatec Itu em ADS (Analise e desenvolvimento de sistemas) 🎒
+### 💡 Oi, eu sou o Erick Lima, sou estudante da Fatec Itu em ADS (Análise e Desenvolvimento de Sistemas) 🎒
 
 ##
 
